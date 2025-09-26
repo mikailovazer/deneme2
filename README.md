@@ -1,2 +1,2 @@
 # deneme2
-### Bu birdeneme mesajıdır
+### Bu bir deneme mesajıdır
